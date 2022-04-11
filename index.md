@@ -12,7 +12,3 @@ Here's what I am currently working on: [coding-practice](https://github.com/dars
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
